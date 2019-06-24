@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1555078931 source:c:\users\acer\desktop\c++\ceshi\main.cpp
+	<iostream>
+	<conio.h>
+
+1561283491 source:c:\users\biaogehaoma\desktop\c++\ceshi\main.cpp
+	<string>
+	<iostream>
+	<Windows.h>
+
